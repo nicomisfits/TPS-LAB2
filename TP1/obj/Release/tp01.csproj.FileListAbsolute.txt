@@ -1,0 +1,8 @@
+C:\Users\nicolas\Desktop\tp01\bin\Release\tp01.exe.config
+C:\Users\nicolas\Desktop\tp01\bin\Release\tp01.exe
+C:\Users\nicolas\Desktop\tp01\bin\Release\tp01.pdb
+C:\Users\nicolas\Desktop\tp01\obj\Release\tp01.Form1.resources
+C:\Users\nicolas\Desktop\tp01\obj\Release\tp01.Properties.Resources.resources
+C:\Users\nicolas\Desktop\tp01\obj\Release\tp01.csproj.GenerateResource.Cache
+C:\Users\nicolas\Desktop\tp01\obj\Release\tp01.exe
+C:\Users\nicolas\Desktop\tp01\obj\Release\tp01.pdb

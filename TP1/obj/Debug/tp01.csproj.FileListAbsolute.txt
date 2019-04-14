@@ -1,0 +1,32 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\lista.nicolas\tp01\bin\Debug\tp01.exe.config
+c:\users\alumno\Documents\Visual Studio 2012\Projects\lista.nicolas\tp01\obj\Debug\tp01.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\lista.nicolas\tp01\obj\Debug\tp01.Form1.resources
+c:\users\alumno\Documents\Visual Studio 2012\Projects\lista.nicolas\tp01\obj\Debug\tp01.Properties.Resources.resources
+c:\users\alumno\Documents\Visual Studio 2012\Projects\lista.nicolas\tp01\obj\Debug\tp01.csproj.GenerateResource.Cache
+C:\Users\nicolas\Desktop\tp01\bin\Debug\tp01.exe.config
+C:\Users\nicolas\Desktop\tp01\bin\Debug\tp01.exe
+C:\Users\nicolas\Desktop\tp01\bin\Debug\tp01.pdb
+C:\Users\nicolas\Desktop\tp01\obj\Debug\tp01.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\tp01\obj\Debug\tp01.Form1.resources
+C:\Users\nicolas\Desktop\tp01\obj\Debug\tp01.Properties.Resources.resources
+C:\Users\nicolas\Desktop\tp01\obj\Debug\tp01.csproj.GenerateResource.Cache
+C:\Users\nicolas\Desktop\tp01\obj\Debug\tp01.exe
+C:\Users\nicolas\Desktop\tp01\obj\Debug\tp01.pdb
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\bin\Debug\tp01.exe.config
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\obj\Debug\tp01.exe
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\obj\Debug\tp01.pdb
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\bin\Debug\tp01.exe
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\bin\Debug\tp01.pdb
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\obj\Debug\tp01.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\obj\Debug\tp01.Form1.resources
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\obj\Debug\tp01.Properties.Resources.resources
+C:\Users\nicolas\Desktop\tp_laboratorio_2\tp01\obj\Debug\tp01.csproj.GenerateResource.Cache
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\obj\Debug\tp01.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\obj\Debug\tp01.Form1.resources
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\obj\Debug\tp01.Properties.Resources.resources
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\obj\Debug\tp01.csproj.GenerateResource.Cache
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\obj\Debug\tp01.exe
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\obj\Debug\tp01.pdb
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\bin\Debug\tp01.exe.config
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\bin\Debug\tp01.exe
+C:\Users\nicolas\Documents\GitHub\RecuperatoriosTP\TP1\bin\Debug\tp01.pdb
